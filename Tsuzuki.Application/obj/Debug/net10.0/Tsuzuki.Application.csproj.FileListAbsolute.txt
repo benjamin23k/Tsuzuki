@@ -1,0 +1,11 @@
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\bin\Debug\net10.0\Tsuzuki.Application.deps.json
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\bin\Debug\net10.0\Tsuzuki.Application.dll
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\bin\Debug\net10.0\Tsuzuki.Application.pdb
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\Tsuzuki.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\Tsuzuki.Application.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\Tsuzuki.Application.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\Tsuzuki.Application.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\Tsuzuki.Application.dll
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\refint\Tsuzuki.Application.dll
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\Tsuzuki.Application.pdb
+C:\Users\Benjamin\source\repos\Tsuzuki\src\Tsuzuki.Application\obj\Debug\net10.0\ref\Tsuzuki.Application.dll
